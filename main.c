@@ -13,7 +13,7 @@ int main()
     last_pressed = 0;
     last_click_time = 0;
 
-    printf("first project!\n");
+    printf("first hachimi!\n");
     Init_Font();
     int fd = init_all();
 
