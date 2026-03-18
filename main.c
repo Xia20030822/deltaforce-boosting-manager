@@ -13,7 +13,7 @@ int main()
     last_pressed = 0;
     last_click_time = 0;
 
-    printf("first hachimi!\n");
+    printf("first tree1!\n");
     Init_Font();
     int fd = init_all();
 
