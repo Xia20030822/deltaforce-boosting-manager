@@ -1,8 +1,6 @@
 # ITSUKI desu
 
-### Useless uni student who loves hachimi music
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xia20030822&label=Profile views&color=0e75b6&style=flat" alt="Xia20030822" /> </p>
+### Useless uni student / hachimi music creater
 
 - 🔭 I'm currently working on **Shared Bike Management System**
 
